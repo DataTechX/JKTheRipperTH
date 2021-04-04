@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Arturs
+### Hi there 👋, my name is LYNN_
 #### I'm a Full Stack Developer from Thailand, living in Norway.
 
 #javascript #node #express #flutterio #docker
