@@ -1,5 +1,5 @@
 <p align="center">    
-    <img style="border-radius: 30px" width="250" height="250" src="https://cdn.discordapp.com/attachments/804349049192972308/889161135360737341/as.png">
+    <img style="border-radius: 30px" width="250" height="250" src="https://cdn.discordapp.com/attachments/804349049192972308/900362292426862622/1mpa_800.png">
 </p>
 <h1 align="center">LyNn</h1>
 
@@ -11,3 +11,5 @@
 
 ### สถิติ
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JKTheRipperTH&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+cr.รูปหาไม่เจอแล้ว
