@@ -7,7 +7,7 @@
 ผมชื่อ **lynn** และผมทำงานร่วมกับ **looney** ผมเป็นนักพัฒนาบอทที่ดิสคร์อดฝึกหัด ผมมีความรู้ฝืนฐานใน JavaScript, C#, C++, HTML, CSS และอื่นๆ และส่วนใหญ่ผมจะเก็บของที่ทำฝึกหัดไว้ใน github เป็นส่วนตัว
 
 ### ผมเกือบจะมีประสบการณ์ใน
-1. goland python typescript rust lua ruby dark
+1.rust lua ruby
 
 ### สถิติ
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JKTheRipperTH&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
