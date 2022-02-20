@@ -1,5 +1,5 @@
 <p align="center">    
-    <img style="border-radius: 30px" width="250" height="250" src="https://cdn.discordapp.com/attachments/804349049192972308/900362292426862622/1mpa_800.png">
+    <img style="border-radius: 30px" width="250" height="250" src="https://cdn.discordapp.com/attachments/879421194145767485/925748855901917214/icon_bot.png">
 </p>
 <h1 align="center">LyNn</h1>
 
