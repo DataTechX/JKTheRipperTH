@@ -1,13 +1,18 @@
 <p align="center">    
     <img style="border-radius: 30px" width="250" height="250" src="https://cdn.discordapp.com/attachments/879421194145767485/925748855901917214/icon_bot.png">
 </p>
-<h1 align="center">JKTHERIPPER</h1>
+<h1 align="center">👋 JK†HÈRÌþþÈR</h1>
 
 ### อาโย่!
-ผมชื่อ **lynn** และผมทำงานร่วมกับ **dmc** ผมเป็นนักพัฒนาบอทที่ดิสคร์อดฝึกหัด ผมมีความรู้ฝืนฐานใน JavaScript, C#,และอื่นๆ และส่วนใหญ่ผมจะเก็บของที่ทำฝึกหัดไว้ใน github เป็นส่วนตัว
+- 🍒 Name: **LYNN** 
+- ⛏ Working  **DMC** 
+- 🎨 bot developer in discord apprentice
+- ✨ have basic knowledge in `JavaScript, C#`, and so
+- 🎭 most of the time I keep my practice stuff in my github privately.
 
 ### ประสบการณ์ที่กำลังจะเกิดขึ้น
-1.ruby vue
+- 🔭 **ruby**
+- 🍞 **vue**
 
 ### สถิติ
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JKTheRipperTH&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=white&bg_color=151515)
