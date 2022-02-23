@@ -1,8 +1,3 @@
-<p align="center">    
-    <img style="border-radius: 30px" width="250" height="250" src="https://cdn.discordapp.com/attachments/879421194145767485/925748855901917214/icon_bot.png">
-</p>
-<h1 align="center">👋 JK†HÈRÌþþÈR</h1>
-
 ### อาโย่!
 - 🍒 Name: **LYNN** 
 - ⛏ Working  **DMC** 
