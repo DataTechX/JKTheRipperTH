@@ -11,7 +11,3 @@
 
 ### สถิติ
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JKTheRipperTH&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=white&bg_color=151515)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JKTheRipperTH&show_icons=true&theme=dark&locale=en" alt="JKTheRipperTH" /></p>
-
-cr.รูปหาไม่เจอแล้ว
