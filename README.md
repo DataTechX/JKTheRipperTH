@@ -1,3 +1,6 @@
+<p>
+  <img src="Emoji-3.png">
+</p>
 ### อาโย่!
 - 🍒 Name: **nxCox** 
 - ⛏ Working  **A** 
