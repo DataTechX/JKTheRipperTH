@@ -16,7 +16,7 @@
 
 ### สถิติ
 <a href="https://github.com/JKTheRipperTH/">
-      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JKTheRipperTH&layout=compact&theme=radical&hide_border=true" />
+      <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=JKTheRipperTH&layout=compact&theme=radical&hide_border=true" />
 </a>
 
 ### Discord
