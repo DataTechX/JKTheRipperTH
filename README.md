@@ -5,7 +5,7 @@
 ### อาโย่!
 
 - 🍒 Name: **nxCox** 
-- ⛏ Working  **A.....** 
+- ⛏ Working  **NoxMeta Test** 
 - 🎨 bot developer in discord apprentice
 - ✨ have basic knowledge in `JavaScript, C#`, and so
 - 🎭 most of the time I keep my practice stuff in my github privately.
