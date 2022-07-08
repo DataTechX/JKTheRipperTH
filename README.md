@@ -7,7 +7,7 @@
 - 🍒 Name: **nxCox** 
 - ⛏ Working  **NoxMeta Test** 
 - 🎨 bot developer in discord apprentice
-- ✨ have basic knowledge in `JavaScript, C#`, and so
+- ✨ have basic knowledge in `JavaScript, C# Docker`, and so
 - 🎭 most of the time I keep my practice stuff in my github privately.
 
 ### ประสบการณ์ที่กำลังจะเกิดขึ้น
