@@ -20,4 +20,4 @@
 </a>
 
 ### Discord
-[![Discord Presence](https://lanyard.cnrad.dev/api/800312400905633802)](https://discord.com/users/800312400905633802)
+[![Discord Presence](https://lanyard.cnrad.dev/api/827530462675075102)](https://discord.com/users/800312400905633802)
