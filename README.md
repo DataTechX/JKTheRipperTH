@@ -16,9 +16,10 @@
 
 ### สถิติ
 <a href="https://github.com/JKTheRipperTH/">
-      <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=JKTheRipperTH&layout=compact&theme=radical&hide_border=true" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JKTheRipperTH&langs_count=5&theme=tokyonight" />
+  <br>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=JKTheRipperTH&show_icons=true&theme=radical" />
 </a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JKTheRipperTH&show_icons=true&theme=radical)
 ### Discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/800312400905633802)](https://discord.com/users/800312400905633802)
