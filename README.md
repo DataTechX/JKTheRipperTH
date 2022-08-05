@@ -11,8 +11,14 @@
 - 🎭 most of the time I keep my practice stuff in my github privately.
 
 ### ประสบการณ์ที่กำลังจะเกิดขึ้น
-- 🔭 **ruby**
-- 🍞 **vue**
+- 🔭 **ruby backend api other**
+- 🍞 **vue frontend web**
+- 🍞 **fastify backend api**
+
+### โปรเจค
+- [Chat Talk Private](https://github.com/JKTheRipperTH/chat-g) `language c sharp`
+- [Car Care](https://github.com/JKTheRipperTH/car-care) `language c sharp`
+- [Portfolio](https://github.com/JKTheRipperTH/car-care) `language typesctipt`
 
 ### สถิติ
 <a href="https://github.com/JKTheRipperTH/">
