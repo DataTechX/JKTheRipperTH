@@ -4,8 +4,8 @@
 
 ### อาโย่!
 
-- 🍒 Name: **nxCox** 
-- ⛏ Working  **NoxMeta Test** 
+- 🍒 Name: **JK** 
+- ⛏ Working  **DMC** 
 - 🎨 bot developer in discord apprentice
 - ✨ have basic knowledge in `JavaScript, C# Docker`, and so
 - 🎭 most of the time I keep my practice stuff in my github privately.
