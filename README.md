@@ -22,9 +22,7 @@
 
 ### สถิติ
 <a href="https://github.com/JKTheRipperTH/">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JKTheRipperTH&langs_count=5&theme=tokyonight" />
-  <br>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=JKTheRipperTH&show_icons=true&theme=radical" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=JKTheRipperTH&show_icons=true&theme=algolia" />
 </a>
 
 ### Discord
