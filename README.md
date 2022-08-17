@@ -27,3 +27,8 @@
 
 ### Discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/800312400905633802)](https://discord.com/users/800312400905633802)
+
+
+
+## เกี่ยวกับฉันใน github
+![](https://github-readme-streak-stats.herokuapp.com/?user=JKTheRipperTH&show_icons=true&hide_border=true&theme=algolia&icon_color=0000ff)
