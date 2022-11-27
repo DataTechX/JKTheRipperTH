@@ -2,6 +2,8 @@
   <img src="11.png">
 </p>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=JKTheRipperTH)](https://git.io/typing-svg)
+
 ### อาโย่!
 
 - 🍒 Name: **JK** 
