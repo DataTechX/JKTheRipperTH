@@ -10,13 +10,11 @@
 - [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=JKTheRipperTH)](https://git.io/typing-svg)
 - ⛏ Working  **DMC NTK** 
 - 🎨 bot developer in discord apprentice
-- ✨ have basic knowledge in `JavaScript, C# Docker`, and so
+- ✨ have basic knowledge in `JavaScript, C#, Docker, fastify, vue, nuxt`, and so
 - 🎭 most of the time I keep my practice stuff in my github privately.
 
 ### ประสบการณ์ที่กำลังจะเกิดขึ้น
-- 🔭 **docker comback leaning**
-- 🍞 **vue frontend ✅**
-- 🍞 **fastify backend ✅**
+- 🔭 **GO Is Leaning**
 
 ### โปรเจค ที่ทำในช่วงเวลาว่าง
 - [Chat Talk Private](https://github.com/JKTheRipperTH/chat-g) `language c sharp`
