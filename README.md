@@ -21,3 +21,7 @@
 - [Car Care](https://github.com/JKTheRipperTH/car-care) `language c sharp`
 - [Portfolio](https://github.com/JKTheRipperTH/car-care) `language typesctipt`
 - [System-Gang](https://github.com/JKTheRipperTH/System-Gang) `language javascript`
+- 
+<p align="center">
+    <img alt="Jaime's GitHub Stats" height="160em"  src="https://github-readme-stats.vercel.app/api?username=JKTheRipperTH&theme=material-palenight&show_icons=true">
+    <img alt="Most Used Languages" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JKTheRipperTH&hide=html&layout=compact&theme=material-palenight">
