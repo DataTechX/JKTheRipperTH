@@ -7,7 +7,7 @@
 ### อาโย่!
 
 - 🍒 Name: 
-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=JKTheRipperTH)](https://git.io/typing-svg)
+- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=JKTHERIPPER)](https://git.io/typing-svg)
 - ⛏ Working  **DMC NTK** 
 - 🎨 bot developer in discord apprentice
 - ✨ have basic knowledge in `TypeScript, JavaScript, C#, Docker, fastify, vue, nuxt`, and so
