@@ -13,6 +13,7 @@
 - ✨ have basic knowledge in `TypeScript, JavaScript, C#, Docker, fastify`, and so
 - 🎃 framework `vue or nuxt, next, solid`
 - 🎭 most of the time I keep my practice stuff in my github privately.
+- Contact: https://discord.gg/EB9CFWjcFh
 
 ### ประสบการณ์ที่กำลังจะเกิดขึ้น
 - 🔭 **GO Is Leaning**
