@@ -8,7 +8,7 @@
 
 - 🍒 Name: 
 - [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=JKTHERIPPER)](https://git.io/typing-svg)
-- ⛏ Working  **DMC NTK Center of the gods** 
+- ⛏ Working  **DMC NTK GBGOOD** 
 - 🎨 bot developer in discord apprentice
 - ✨ have basic knowledge in `TypeScript, JavaScript, C#, Docker, fastify`, and so
 - 🎃 framework `vue or nuxt, next, solid`
