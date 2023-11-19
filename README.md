@@ -6,12 +6,11 @@
 
 ### อาโย่!
 
-- 🍒 Name: 
-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=JKTHERIPPER)](https://git.io/typing-svg)
+- 🍒 Name: JKTheRipper
 - ⛏ Working  **OPTION TEAM** 
 - 🎨 bot developer in discord apprentice
-- ✨ have basic knowledge in `TypeScript, JavaScript, C#, Docker, fastify`, and so
-- 🎃 framework `vue or nuxt, next, solid`
+- ✨ have basic knowledge in `TypeScript, JavaScript, C#,C++, Docker`, and so
+- 🎃 framework `vue or nuxt, next, solid, fastify`
 - 🎭 most of the time I keep my practice stuff in my github privately.
 - 💬 Contact: https://discord.gg/EB9CFWjcFh
 
@@ -19,12 +18,13 @@
 - 🔭 **GO Is Leaning**
 
 ### โปรเจค ที่ทำในช่วงเวลาว่าง
-- [Chat Talk Private](https://github.com/JKTheRipperTH/chat-g) `language c sharp`
-- [Car Care](https://github.com/JKTheRipperTH/car-care) `language c sharp`
-- [Portfolio](https://github.com/JKTheRipperTH/car-care) `language typesctipt`
-- [System-Gang](https://github.com/JKTheRipperTH/System-Gang) `language javascript`
+- [Chat Talk Private](https://github.com/JKTheRipperTH/chat-g) `Language c sharp`
+- [Car Care](https://github.com/JKTheRipperTH/car-care) `Language c sharp`
+- [Portfolio](https://github.com/JKTheRipperTH/car-care) `Language typesctipt`
+- [System-Gang](https://github.com/JKTheRipperTH/System-Gang) `Language javascript`
 - 
 <p align="center">
     <img alt="Jaime's GitHub Stats" height="160em"  src="https://github-readme-stats.vercel.app/api?username=JKTheRipperTH&theme=material-palenight&show_icons=true">
     <img alt="Most Used Languages" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JKTheRipperTH&hide=html&layout=compact&theme=material-palenight" >
     <img alt="Most Used Languages" height="160em" src="https://lanyard.cnrad.dev/api/827530462675075102" >
+</p>
